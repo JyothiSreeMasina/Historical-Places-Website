@@ -1,6 +1,10 @@
 Historical Places in India - Responsive Webpage
 
-This project showcases a responsive webpage about historical places in India. The page provides information about several significant historical sites, including the Taj Mahal, Hawa Mahal, Meenakshi Temple, India Gate, Golden Temple, Ajanta and Ellora Caves, and Mysore Palace. Each section includes a description and an image of the historical site, along with a link to read more on Wikipedia. The webpage also features an audio section for the National Anthem of India.
+This project showcases a responsive webpage about historical places in India.
+
+The page provides information about several significant historical sites, including the Taj Mahal, Hawa Mahal, Meenakshi Temple, India Gate, Golden Temple, Ajanta and Ellora Caves, and Mysore Palace.
+
+Each section includes a description and an image of the historical site, along with a link to read more on Wikipedia. The webpage also features an audio section for the National Anthem of India.
 
 
 Features
