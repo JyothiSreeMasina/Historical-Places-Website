@@ -17,7 +17,5 @@ This project showcases a responsive webpage about historical places in India. Th
 - **Bootstrap 5**: For additional styling and layout support.
 
 
-## Author
 
-- **M. Jyothi Sree**
 
